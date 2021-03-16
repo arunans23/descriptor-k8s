@@ -4,4 +4,4 @@ kind: "ConfigMap"
 metadata:
   name: "env-data"
 data:
-  CITY: "LONDON"
+  CITY: "LONDON-2"
