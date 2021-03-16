@@ -4,7 +4,7 @@ kind: "Integration"
 metadata:
   name: "sample-integration"
 spec:
-  image: "arunans23/sample-integration:1.0.4"
+  image: "arunans23/sample-integration:1.0.5"
   deploySpec:
     minReplicas: 1
   envFrom:
